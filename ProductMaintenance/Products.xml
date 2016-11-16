@@ -15,4 +15,9 @@
         <Description>Murach's Beginning Java with NetBeans</Description>
         <Price>57.50</Price>
     </Product>
+    <Product>
+        <Code>1224</Code>
+        <Description>new</Description>
+        <Price>10.50</Price>
+    </Product>
 </Products>

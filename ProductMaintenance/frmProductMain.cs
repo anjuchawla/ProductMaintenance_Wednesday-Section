@@ -49,8 +49,8 @@ namespace ProductMaintenance
 		{
             //the form to add new product is displayed
             frmNewProduct newProductForm = new frmNewProduct();
-            newProductForm.Show(); 
-          /* Product product = newProductForm.GetNewProduct();
+           
+           Product product = newProductForm.GetNewProduct();
 
             if(product != null)
             {
@@ -58,7 +58,7 @@ namespace ProductMaintenance
                 ProductDB.SaveProducts(products);
                 FillProductListBox();
             }
-            */
+            
 			
 		}
 
