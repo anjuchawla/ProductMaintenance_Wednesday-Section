@@ -11,11 +11,6 @@
         <Price>57.50</Price>
     </Product>
     <Product>
-        <Code>SQ12</Code>
-        <Description>Murach's SQL Server 2012</Description>
-        <Price>56.50</Price>
-    </Product>
-    <Product>
         <Code>BJWN</Code>
         <Description>Murach's Beginning Java with NetBeans</Description>
         <Price>57.50</Price>
